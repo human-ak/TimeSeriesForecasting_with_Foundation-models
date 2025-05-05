@@ -2,7 +2,7 @@ Backtesting popular Foundation models developed by Salesforce, Google, IBM, & Am
 
 Datasets: Gold (GC=F), Crude Oil (CL=F), & S&P 500 (^GSPC) between the period 01-01-2001 to 30-04-2024 soucred from Yahoo Finance
 
-Backtests: 2 years
+Backtests: 2 year walk forward validation
 
 In each forecasting we forecast for the next 12 months.
 
