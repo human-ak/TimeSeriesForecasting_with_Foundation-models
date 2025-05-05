@@ -1,6 +1,6 @@
 Backtesting popular Foundation models developed by Salesforce, Google, IBM, & Amazon that supports zero shot forecasting.
 
-Datasets: Gold (GC=F), & S&P 500 (^GSPC) between te period 01-01-2001 to 30-04-2024
+Datasets: Gold (GC=F), & S&P 500 (^GSPC) between te period 01-01-2001 to 30-04-2024 soucred from Yahoo Finance
 
 Backtests: 2 years
 
